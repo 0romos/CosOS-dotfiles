@@ -36,8 +36,8 @@
 1. Application Themes
    
    - [Telegram](https://t.me/addtheme/zIueslkI5K6Qn3J0)
-   - [Discord]()
-   - [Homepage]()
+   - [Discord](https://github.com/0romos/CosOS-dotfiles/blob/main/App%20Themes/discord.css)
+   - [Homepage](https://github.com/0romos/CosOS-dotfiles/blob/main/App%20Themes/homepage.css)
 
 
 <center> <h1 align="left" id="previews">Previews</h1> </center>
