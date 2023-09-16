@@ -4,7 +4,7 @@
   "workbench.list.smoothScrolling": true,
   "workbench.sideBar.location": "left",
   "editor.smoothScrolling": true,
-
+ 
   "editor.lineHeight": 25,
   "editor.fontSize": 13,
   "editor.inlineSuggest.enabled": true,
