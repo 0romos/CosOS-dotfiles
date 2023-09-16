@@ -21,14 +21,15 @@
 
 1. Web Themes
 
-   - [YouTube]()
-   - [Instagram]()
-   - [Reddit]()
-   - [Github]()
-   - [Twitter]()
-   - [Wire]()
-   - [ChatGPT]()
-   - [WhatsApp]()
+   - [YouTube](https://github.com/0romos/CosOS-dotfiles/blob/main/Web%20Themes/youtube.css)
+   - [Instagram](https://github.com/0romos/CosOS-dotfiles/blob/main/Web%20Themes/instagram.css)
+   - [Reddit](https://github.com/0romos/CosOS-dotfiles/blob/main/Web%20Themes/reddit.css)
+   - [Github](https://github.com/0romos/CosOS-dotfiles/blob/main/Web%20Themes/github.css)
+   - [Twitter](https://github.com/0romos/CosOS-dotfiles/blob/main/Web%20Themes/twitter.css)
+   - [Wire](https://github.com/0romos/CosOS-dotfiles/blob/main/Web%20Themes/wire.css)
+   - [ChatGPT](https://github.com/0romos/CosOS-dotfiles/blob/main/Web%20Themes/chatgpt.css)
+   - [WhatsApp](https://github.com/0romos/CosOS-dotfiles/blob/main/Web%20Themes/whatsapp.css)
+
 
 <center> <h1 align="left" id="internal">Application Themes</h1> </center>
 
