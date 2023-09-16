@@ -1,0 +1,131 @@
+* {
+    background-color: #141416 !important;
+    border-color: #1e1e20 !important;
+}
+
+.Header {
+    background-color: #141416 !important;
+}
+
+.js-details-container {
+    background-color: #141416 !important;
+}
+
+.Details {
+    background-color: #141416 !important;
+}
+
+.px-3 {
+    background-color: #141416 !important;
+}
+
+.px-md-4 {
+    background-color: #141416 !important;
+}
+
+.px-lg-5 {
+    background-color: #141416 !important;
+}
+
+.flex-wrap {
+    background-color: #141416 !important;
+}
+
+.flex-md-nowrap {
+    background-color: #141416 !important;
+}
+
+.color-bg-default .p-3 {
+    background-color: #141416 !important;
+}
+
+.mt-2 {
+    background-color: #141416 !important;
+}
+
+.border {
+    background-color: #141416 !important;
+}
+
+.color-border-muted {
+    background-color: #141416 !important;
+}
+.rounded-1 {
+    background-color: #141416 !important;
+}
+
+.color-shadow-medium {
+    background-color: #141416 !important;
+}
+
+.height-full {
+    background-color: #141416 !important;
+}
+
+.Box {
+    background-color: #141416 !important;
+}
+
+.color-bg-default {
+    background-color: #141416 !important;
+}
+
+.container-xl .px-3 .px-md-4 .px-lg-5 {
+    background-color: #141416 !important;
+    display: none;
+}
+
+.color-bg-default {
+    background-color: #141416 !important;
+}
+
+.Layout.Layout--flowRow-until-md.Layout--sidebarPosition-flowRow-start .Layout-main {
+    background-color: #141416 !important;
+}
+
+code,
+kbd,
+pre,
+samp {
+    background: #1e1e20 !important;
+}
+
+span {
+    background: transparent !important;
+}
+
+
+.hLwWNO .PRIVATE_TreeView-item[aria-current="true"] > .PRIVATE_TreeView-item-container::after {
+    content: "";
+    position: absolute;
+    top: calc(50% - 0.75rem);
+    left: -8px;
+    width: 0.25rem;
+    height: 1.5rem;
+    background-color: #ffffff;
+    border-radius: 6px;
+}
+
+.AppHeader .AppHeader-button.AppHeader-button--hasIndicator::before {
+    background-color: #ffffff;
+}
+
+a {
+    background: #141416 !important;
+    color: #ffffff !important;
+}
+
+svg {
+    fill: #ffffff !important;
+}
+
+.border {
+    border-color: #1e1e20 !important;
+}
+.color-fg-muted {
+    color: #ffffff !important;
+}
+
+.TimelineItem::before {
+    background: #1e1e20;
+}
