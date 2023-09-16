@@ -1,0 +1,40 @@
+body {
+    --gray-100: #141416 !important;
+    --gray-95: #1e1e20 !important;
+    --gray-90: #1e1e20 !important;
+    --gray-70:  #1e1e20 !important;
+    --gray-50: #fff !important;
+}
+
+body.theme-dark {
+    --icon-button-primary-border: ##141416 !important;
+    --button-tertiary-border: #141416 !important;
+    --text-input-disabled: #141416 !important;
+    --app-bg: #141416 !important;
+}
+body.theme-dark .accent-color-6, body.theme-dark .accent-color-4, body.theme-dark .accent-color-1 {
+    color: #50a684 !important;
+}
+
+body.theme-dark .main-accent-color-4 {
+    --accent-color: #50a684 !important;
+    --accent-color-border: #50a684 !important;
+    --accent-color-focus: #50a684 !important;
+    --button-primary-active-border: #50a684 !important;
+    --button-primary-hover: #50a684 !important;
+    --accent-color-600: #50a684 !important;
+    --accent-color-500: #50a684 !important;
+}
+
+.app .left-column {
+    width: 250px !important;
+}
+
+.css-16e3vp6, .css-107u27p {
+    color: transparent !important;
+}
+
+
+.ephemeral-timer__background, .ephemeral-timer__dial {
+    stroke: #50a684 !important;
+}
