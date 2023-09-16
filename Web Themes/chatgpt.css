@@ -6,7 +6,7 @@ body {
     background: #141416;
 }
 .dark .dark\:bg-gray-800 {
-    background: #141416; 
+    background: #141416;
 }
 .dark .dark\:bg-\[\#444654\]{
     background: #141416;
@@ -38,3 +38,12 @@ body {
     background: #1e1e20;
 }
 
+
+.dark .dark\:hover\:bg-\[\#2A2B32\], .dark .dark\:bg-gray-900 {
+    background: #141416 !important;
+}
+
+
+.dark .dark\:hover\:bg-\[\#2A2B32\]:hover {
+    background: #50a684 !important;
+}
